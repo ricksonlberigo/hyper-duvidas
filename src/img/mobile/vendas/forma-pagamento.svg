@@ -7,6 +7,8 @@
 <rect x="1" y="1377" width="417" height="237" fill="url(#pattern5)"/>
 <rect x="1" y="1674" width="417" height="9" fill="#5F5F5F"/>
 <rect x="38" y="1607" width="234" height="53" fill="url(#pattern6)"/>
+<rect x="1" y="1611" width="15" height="68" fill="#5F5F5F"/>
+<rect x="403" y="1607" width="15" height="70" fill="#5F5F5F"/>
 <defs>
 <pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_296_5" transform="scale(0.00239234 0.0021692)"/>
